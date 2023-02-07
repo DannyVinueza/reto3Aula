@@ -24,6 +24,7 @@ body{
 }
 .titulo{
     color: #989894;
+    font-size: 20px;
     padding: 15px;
 }
 
@@ -43,7 +44,7 @@ body{
 .elemento{
     background-color: #DFDFDF;
     width: 301px;
-    height: 668px;
+    height: 665px;
     padding: 25px 25px;
 }
 
