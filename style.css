@@ -31,18 +31,6 @@ body{
     display: flex;
 }
 
-.colorVerde h1{ 
-    margin-right: 10px;
-    text-align: left;
-    padding: 5px;
-    
-}
-
-.colorVerde h2{
-    margin-right: 10px;
-    font-size: 20px;
-    padding: 10px;
-}
 
 .medio{
     width: 75%;
@@ -58,7 +46,7 @@ body{
 
 .ele{
     width: 250px;
-    height: 100px;
+    height: 130px;
     background-color: #989894;
     border-radius: 20px;
     margin-bottom: 30px;
@@ -66,7 +54,7 @@ body{
 
 .elementoImg{
     width: 250px;
-    height: 100px;
+    height: 130px;
     border-radius: 20px;
 }
 
